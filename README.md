@@ -1,1 +1,1 @@
-# first readme
+https://xyanik88.github.io/rsschool-cv/
